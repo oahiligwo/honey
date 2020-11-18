@@ -1,4 +1,4 @@
-﻿state,numcol,yieldpercol,totalprod,stocks,priceperlb,prodvalue,year,population,median household income
+﻿state,numcol,yieldpercol,totalprod,stocks,priceperlb,prodvalue,year,population,medianhouseholdincome
 AL,8000,54,432000,65000,2.47,1067000,2012,"4,779,736","43,464"
 AZ,22000,46,1012000,253000,1.79,1811000,2012,"6,392,017","47,044"
 AR,25000,63,1575000,189000,1.98,3119000,2012,"2,915,918","39,018"
